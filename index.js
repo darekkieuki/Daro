@@ -37,3 +37,6 @@ function save() {
     let counter = scoreHome + " - " + scoreGuest + " \n"
     saveScore.textContent += counter 
 }
+function delete() {
+    
+}
