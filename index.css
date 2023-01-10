@@ -1,0 +1,160 @@
+body {
+    background-color: #1B244A;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+position: relative;
+width: 200px;
+height: 36px;
+left: 150px;
+top: 0px;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 120px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+}
+
+h4 {
+position: relative;
+background: #080001;
+border-radius: 5px;
+width: 150px;
+height: 120px;
+left: 175px;
+top: -30px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 135px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;}
+
+button {
+position: relative;
+box-sizing: border-box;
+border: 2px solid #9AABD8;
+border-radius: 7px;
+
+width: 45px;
+height: 42px;
+left: 175px;
+top: -115px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+background: transparent;
+/* or 155% */
+text-align: center;
+color: #9AABD8;
+}
+
+#scrReset {
+position: relative;
+box-sizing: border-box;
+border: 2px solid #9AABD8;
+border-radius: 7px;
+
+width: 225px;
+height: 42px;
+left: -120px;
+top: 0px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+background: transparent;
+/* or 155% */
+text-align: center;
+color: #9AABD8;
+}
+
+#save {
+position: relative;
+box-sizing: border-box;
+border: 2px solid #9AABD8;
+border-radius: 7px;
+
+width: 225px;
+height: 42px;
+left: -349px;
+top: 55px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+background: transparent;
+/* or 155% */
+text-align: center;
+color: #9AABD8;
+}
+
+p {
+position: relative;
+
+width: 225px;
+height: 42px;
+left: 28px;
+top: 50px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+background: transparent;
+/* or 155% */
+text-align: center;
+color: #9AABD8; 
+}
+d {
+position: relative;
+display: flex;
+flex-direction: column;
+
+
+width: 70px;
+height: 42px;
+left: 100px;
+top: 50px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+background: transparent;
+/* or 155% */
+text-align: center;
+color: #9AABD8; 
+}
+
+
+
+
+
+
